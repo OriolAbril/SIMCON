@@ -1,0 +1,14 @@
+10000,1000
+500
+2.0d0
+3.405d0,119.8d0
+0.4
+1
+
+********************************************************************
+1.ncycle(number of montecarlo cycles),nsample
+2.natoms
+3.temperature
+4.sigma,epsil (LJ parameters in A and K)
+5.delta (amplitude of the perturbation)
+6.rho (density in reduced units)
